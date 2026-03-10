@@ -1,6 +1,7 @@
 This folder contains SQL queries used for data exploration and analysis.
 
 The queries focus on:
+
 · Revenue trend analysis
 
 · Customer behavior analysis
