@@ -14,7 +14,7 @@ Monthly revenue shows a clear upward trend in the second half of the year, peaki
 
 This pattern suggests strong seasonality, likely driven by holiday shopping behavior (e.g., Black Friday / pre-Christmas demand). The post-peak decline may indicate demand saturation or reduced purchasing activity after major sales periods.
 
-<img src="images/monthly_revenue_trend.png" width="600">
+<img src="images/monthly_revenue_trend.png" width="400">
 
 ---
 
@@ -25,7 +25,8 @@ Customer spending follows a highly right-skewed distribution, even after excludi
 This indicates that the majority of customers contribute relatively low revenue, while a small group of high-value customers drives a disproportionate share of total revenue.
 
 The long tail suggests strong customer heterogeneity, highlighting the importance of segmentation strategies such as RFM analysis to identify and target high-value users.
-<img src="images/customer_spending_distribution.png" width="600">
+
+<img src="images/customer_spending_distribution.png" width="400">
 
 
 ### Tech Stack
