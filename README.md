@@ -28,6 +28,28 @@ The long tail suggests strong customer heterogeneity, highlighting the importanc
 
 <img src="images/customer_spending_distribution.png" width="400">
 
+## 3. Revenue by Country
+
+Revenue is heavily concentrated in the United Kingdom, which significantly outperforms all other countries by a large margin.
+
+This indicates a strong geographic dependency, where the business relies predominantly on a single market. Other countries contribute relatively small and fragmented portions of total revenue, suggesting limited international penetration.
+
+Such concentration introduces potential risk exposure, as fluctuations in the UK market could disproportionately impact overall performance. Expanding and diversifying into other high-potential regions may help mitigate this risk and unlock additional growth opportunities.
+
+<img src="images/top10_countries_ByRevenue.png" width="400">
+
+## 4. Customer Segmentation (RFM Analysis)
+
+Customer segmentation reveals a clear imbalance in both customer distribution and revenue contribution across segments.
+
+The majority of customers fall into the "At Risk" and "Regular" segments, while the "High Value" group represents a relatively small portion of the customer base. However, despite its smaller size, the High Value segment contributes the largest share of total revenue.
+
+This indicates a strong value concentration, where a limited group of loyal, high-frequency customers drives a disproportionate amount of business performance. In contrast, the large At Risk segment contributes relatively low revenue, suggesting significant untapped potential if re-engagement strategies are applied.
+
+The mismatch between customer count and revenue contribution highlights the importance of targeted customer management strategies, focusing both on retaining high-value users and activating at-risk customers to improve overall revenue efficiency.
+
+<img src="images/Customer_Segmentation.png" width="400">
+<img src="images/total_revenue_BySegment.png" width="400">
 
 ### Tech Stack
 Python, SQL, Tableau
