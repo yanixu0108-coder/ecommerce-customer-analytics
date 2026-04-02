@@ -48,7 +48,7 @@ This indicates a strong value concentration, where a limited group of loyal, hig
 
 The mismatch between customer count and revenue contribution highlights the importance of targeted customer management strategies, focusing both on retaining high-value users and activating at-risk customers to improve overall revenue efficiency.
 
-<img src="images/Customer_Segmentation.png" width="400">
+<img src="images/customer_segmentation.png" width="400">
 <img src="images/total_revenue_BySegment.png" width="400">
 
 ### Tech Stack
